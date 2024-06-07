@@ -78,7 +78,7 @@
 				<version>3.3.1</version>
 				<configuration>
 					<javadocVersion>11</javadocVersion>
-					<failOnError>false</failOnError>
+					
 				</configuration>
 				<executions>
 					<execution>
